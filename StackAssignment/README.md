@@ -4,13 +4,7 @@
 # Problem Statement 
 Consider a maze made up of rectangular array of squares, such as the following one:
 
-X X X X X X X X X X X X X 
-        X     X X X X   X
-X X         X       X   X
-X X   X X X    X  X     X
-X X    X  X             X
-X X     X X X X X                
-X X X X X X X X X X X X X
+
 
 The “X” blocks represent a blocked square and form the walls of the maze. Let us consider mazes that have only one entrance and one exit, as in our example. Beginning at the entrance at the top left side of the maze, find a path to the exit at the bottom right side. You can move only up, down, left, or right. Square is either clear or blocked by an X character. 
 A maze class has been provided to help abstract traversing a 2-Dimensional array. Use a stack data structure to find a path through the maze. Some mazes might have more than one successful path, while others might have no path.
