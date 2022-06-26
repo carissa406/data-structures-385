@@ -1,7 +1,7 @@
-### Maze Solving With Stacks
+# Maze Solving With Stacks
 
 
-# Problem Statement 
+### Problem Statement 
 Consider a maze made up of rectangular array of squares, such as the following one:
 
 ![ ](https://github.com/carissa406/CSC385/blob/main/StackAssignment/Capture.PNG)
